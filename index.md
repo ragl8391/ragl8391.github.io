@@ -6,6 +6,8 @@
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
 
+
+
 ## Welcome! Below you can find updates on my professional development project:
 
 ### Week 2 Planning Checklist
