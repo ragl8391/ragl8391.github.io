@@ -28,9 +28,3 @@ Time! I am taking two classes this semester and working full time, so I just nee
 #### Reflection on the process you used last week, how can you make the process work better?
 
 I think I can be really specific about planning the tasks I need to complete each day. While I am trying to get everything done on weeknights, I may need to incorporate time on the weekends to get ahead during particularly busy weeks.
-      
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
