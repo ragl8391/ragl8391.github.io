@@ -17,7 +17,7 @@
 - [X] Download cppcheck
 - [X] Add cppcheck/cpplint extensions on VS Code
 - [X] Research Git
-- [ ] Summarize findings for the week :tada:
+- [X] Summarize findings for the week :tada:
 
 ### Weekly Project Post Week 2
 
@@ -36,3 +36,5 @@ Time! I am taking two classes this semester and working full time, so I just nee
 #### Reflection on the process you used last week, how can you make the process work better?
 
 I think I can be really specific about planning the tasks I need to complete each day. While I am trying to get everything done on weeknights, I may need to incorporate time on the weekends to get ahead during particularly busy weeks.
+
+[Week 2 Research Summary]({{week2.md}})
