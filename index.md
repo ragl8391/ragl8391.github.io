@@ -37,4 +37,4 @@ Time! I am taking two classes this semester and working full time, so I just nee
 
 I think I can be really specific about planning the tasks I need to complete each day. While I am trying to get everything done on weeknights, I may need to incorporate time on the weekends to get ahead during particularly busy weeks.
 
-[Week 2 Research Summary](week2.md)
+[Week 2 Research Summary](/week2/)
