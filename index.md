@@ -12,11 +12,11 @@
 
 ### Week 2 Planning Checklist
 - [x] Create and update Github website
-- [ ] Add Flake8 extension to VS Code
-- [ ] Download cpplint
-- [ ] Download cppcheck
-- [ ] Add cppcheck/cpplint extensions on VS Code
-- [ ] Research Git
+- [X] Add Flake8 extension to VS Code
+- [X] Download cpplint
+- [X] Download cppcheck
+- [X] Add cppcheck/cpplint extensions on VS Code
+- [X] Research Git
 - [ ] Summarize findings for the week :tada:
 
 ### Weekly Project Post Week 2
